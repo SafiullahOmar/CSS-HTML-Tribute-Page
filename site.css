@@ -1,0 +1,29 @@
+img {
+max-width: 100%;
+margin: 0 auto;
+height: auto;
+display: block;
+}
+
+bod {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+}
+
+h1{
+
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+@media (max-width:460px) {
+    h1{
+        font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 0%;
+    }
+}
